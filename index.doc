@@ -1,0 +1,25 @@
+yarn init -y ou yarn init
+yarn add express
+node modules=>dependencias(bibliotecas) que vão ser utilizadas
+yarn add express
+yarn add @types/express -dependencias
+yarn add typescript -dependencias
+yarn tsc --init
+yarn add ts-node-dev -D => traduz a biblioteca para o node
+/**
+ * GET = Buscas
+ * POST = Criação
+ * PUT = Alteração
+ * DELETE = Deletar
+ * PATCH = Alterar uma informação específica
+ */
+ localhost:3333/ => rodar no navegador
+ banco de dados relacionais => sql;oracle;postgree; (não pode mudar a base de dados)
+ banco de dados não relacionais => mongo (pode mudar a base de dados)
+ framework => typeorm (conecta a tabela com o nosso objeto dentro da aplicação)
+ banco de dados =>sqlite3
+ migrations => relatório do que está sendo criado no banco de dados.
+ npm run typeorm package script
+ 
+ 
+
